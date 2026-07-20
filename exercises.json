@@ -1,0 +1,679 @@
+{
+ "0798": {
+  "name": "stationary bike walk",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0798-a8VDgLw.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0798-a8VDgLw.jpg",
+  "equipment": "leverage machine",
+  "target": "cardiovascular system",
+  "steps": [
+   "Adjust the seat height and position on the stationary bike to ensure proper alignment.",
+   "Place your feet on the pedals and secure them with the straps if available.",
+   "Start pedaling at a comfortable pace, keeping your back straight and core engaged.",
+   "Maintain a steady rhythm and increase the resistance level if desired.",
+   "Continue pedaling for the desired duration of your cardio workout.",
+   "Cool down by gradually reducing your pace and resistance level.",
+   "Stretch your leg muscles after the workout to prevent tightness and promote recovery."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0576": {
+  "name": "lever chest press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0576-DOoWcnA.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0576-DOoWcnA.jpg",
+  "equipment": "leverage machine",
+  "target": "pectorals",
+  "steps": [
+   "Adjust the seat height and position yourself on the machine with your back flat against the pad.",
+   "Grasp the handles with an overhand grip and position your elbows at a 90-degree angle.",
+   "Push the handles forward until your arms are fully extended, exhaling during the movement.",
+   "Pause briefly at the end of the movement, then slowly return to the starting position, inhaling as you do so.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0289": {
+  "name": "dumbbell bench press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0289-SpYC0Kp.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0289-SpYC0Kp.jpg",
+  "equipment": "dumbbell",
+  "target": "pectorals",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+   "Hold a dumbbell in each hand, with your palms facing forward and your arms extended above your chest.",
+   "Lower the dumbbells slowly to the sides of your chest, keeping your elbows at a 90-degree angle.",
+   "Pause for a moment, then push the dumbbells back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0314": {
+  "name": "dumbbell incline bench press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0314-ns0SIbU.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0314-ns0SIbU.jpg",
+  "equipment": "dumbbell",
+  "target": "pectorals",
+  "steps": [
+   "Set up an incline bench at a 45-degree angle.",
+   "Sit on the bench with your feet flat on the ground and your back pressed firmly against the bench.",
+   "Hold a dumbbell in each hand, palms facing forward, and lift them to shoulder height.",
+   "Slowly lower the dumbbells to the sides of your chest, keeping your elbows at a 90-degree angle.",
+   "Push the dumbbells back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0757": {
+  "name": "smith incline bench press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0757-5v7KYld.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0757-5v7KYld.jpg",
+  "equipment": "smith machine",
+  "target": "pectorals",
+  "steps": [
+   "Adjust the bench to a 30-45 degree incline.",
+   "Sit on the bench with your back flat against the pad and feet firmly on the ground.",
+   "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.",
+   "Unrack the barbell and lower it slowly towards your upper chest, keeping your elbows slightly tucked in.",
+   "Pause for a moment at the bottom, then push the barbell back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0596": {
+  "name": "lever seated fly",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0596-v3xmPAR.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0596-v3xmPAR.jpg",
+  "equipment": "leverage machine",
+  "target": "pectorals",
+  "steps": [
+   "Adjust the seat height and position yourself on the machine with your back against the pad.",
+   "Grasp the handles with a pronated grip and keep your elbows slightly bent.",
+   "Exhale and push the handles forward, bringing them together in front of your chest.",
+   "Pause for a moment, squeezing your chest muscles.",
+   "Inhale and slowly return to the starting position, allowing your chest muscles to stretch.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0308": {
+  "name": "dumbbell fly",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0308-yz9nUhF.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0308-yz9nUhF.jpg",
+  "equipment": "dumbbell",
+  "target": "pectorals",
+  "steps": [
+   "Lie flat on a bench with a dumbbell in each hand, palms facing each other.",
+   "Extend your arms straight up over your chest, with a slight bend in your elbows.",
+   "Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest.",
+   "Pause for a moment, then reverse the movement and bring the dumbbells back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0405": {
+  "name": "dumbbell seated shoulder press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0405-znQUdHY.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0405-znQUdHY.jpg",
+  "equipment": "dumbbell",
+  "target": "delts",
+  "steps": [
+   "Sit on a bench with a dumbbell in each hand, resting on your thighs.",
+   "Raise the dumbbells to shoulder height, palms facing forward.",
+   "Press the dumbbells upward until your arms are fully extended overhead.",
+   "Pause for a moment at the top, then slowly lower the dumbbells back to shoulder height.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0603": {
+  "name": "lever shoulder press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0603-67n3r98.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0603-67n3r98.jpg",
+  "equipment": "leverage machine",
+  "target": "delts",
+  "steps": [
+   "Adjust the seat height and position yourself on the machine with your back against the backrest.",
+   "Grasp the handles with an overhand grip and position your hands at shoulder level.",
+   "Push the handles upward until your arms are fully extended, but do not lock your elbows.",
+   "Pause for a moment at the top, then slowly lower the handles back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0334": {
+  "name": "dumbbell lateral raise",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0334-DsgkuIt.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0334-DsgkuIt.jpg",
+  "equipment": "dumbbell",
+  "target": "delts",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body.",
+   "Keep your back straight and engage your core.",
+   "Raise your arms out to the sides until they are parallel to the floor, keeping a slight bend in your elbows.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0192": {
+  "name": "cable one arm lateral raise",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0192-wEulIzp.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0192-wEulIzp.jpg",
+  "equipment": "cable",
+  "target": "delts",
+  "steps": [
+   "Stand with your feet shoulder-width apart, facing the cable machine.",
+   "Hold the cable handle with one hand, palm facing down, and stand far enough away from the machine so that there is tension on the cable.",
+   "Keep your arm straight and slowly raise it out to the side until it is parallel to the ground.",
+   "Pause for a moment at the top, then slowly lower your arm back down to the starting position.",
+   "Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0200": {
+  "name": "cable pushdown (with rope attachment)",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0200-dU605di.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0200-dU605di.jpg",
+  "equipment": "cable",
+  "target": "triceps",
+  "steps": [
+   "Attach a rope attachment to a high pulley on a cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.",
+   "Grasp the rope with an overhand grip, palms facing each other.",
+   "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+   "Exhale and push the rope downward by extending your elbows until your arms are fully extended.",
+   "Pause for a moment, then inhale and slowly return to the starting position by allowing your elbows to flex.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "2188": {
+  "name": "dumbbell seated triceps extension",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2188-kont8Ut.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2188-kont8Ut.jpg",
+  "equipment": "dumbbell",
+  "target": "triceps",
+  "steps": [
+   "Sit on a bench with your back straight and feet flat on the ground.",
+   "Hold a dumbbell with both hands and extend your arms straight up overhead.",
+   "Bend your elbows and lower the dumbbell behind your head, keeping your upper arms close to your ears.",
+   "Pause for a moment, then straighten your arms and return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "2141": {
+  "name": "walk elliptical cross trainer",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2141-rjtuP6X.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2141-rjtuP6X.jpg",
+  "equipment": "elliptical machine",
+  "target": "cardiovascular system",
+  "steps": [
+   "Adjust the resistance level and incline of the elliptical machine to your desired settings.",
+   "Step onto the pedals of the machine and grip the handles lightly.",
+   "Begin by pushing down with your feet and pulling the handles towards your body.",
+   "Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion.",
+   "Maintain a steady pace and keep your core engaged throughout the exercise.",
+   "Continue for the desired duration of your cardio workout.",
+   "Gradually decrease the intensity and speed of the machine before stepping off."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0739": {
+  "name": "sled 45в° leg press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0739-10Z2DXU.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0739-10Z2DXU.jpg",
+  "equipment": "sled machine",
+  "target": "glutes",
+  "steps": [
+   "Adjust the seat and footplate of the sled machine to a comfortable position.",
+   "Sit on the sled machine with your back against the backrest and your feet shoulder-width apart on the footplate.",
+   "Grip the handles on the sides of the seat for stability.",
+   "Push the footplate away from your body by extending your legs, keeping your heels on the footplate.",
+   "Continue pushing until your legs are almost fully extended, but without locking your knees.",
+   "Pause for a moment at the top of the movement, then slowly lower the footplate back towards your body by bending your knees.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "1760": {
+  "name": "dumbbell goblet squat",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1760-yn8yg1r.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1760-yn8yg1r.jpg",
+  "equipment": "dumbbell",
+  "target": "quads",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a dumbbell vertically against your chest with both hands.",
+   "Keeping your chest up and core engaged, lower your body down into a squat position by pushing your hips back and bending your knees.",
+   "Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.",
+   "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0770": {
+  "name": "smith squat",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0770-jFtipLl.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0770-jFtipLl.jpg",
+  "equipment": "smith machine",
+  "target": "glutes",
+  "steps": [
+   "Set up the smith machine with the barbell at an appropriate height for your squat.",
+   "Stand with your feet shoulder-width apart, toes slightly turned out.",
+   "Position yourself under the barbell, resting it on your upper traps and shoulders.",
+   "Grip the barbell with a wide grip, slightly wider than shoulder-width apart.",
+   "Engage your core and unrack the barbell, stepping back to clear the rack.",
+   "Keeping your chest up and back straight, initiate the squat by bending at the hips and knees.",
+   "Lower your body until your thighs are parallel to the ground or slightly below.",
+   "Pause for a moment at the bottom, then drive through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0585": {
+  "name": "lever leg extension",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0585-my33uHU.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0585-my33uHU.jpg",
+  "equipment": "leverage machine",
+  "target": "quads",
+  "steps": [
+   "Adjust the seat height and backrest of the machine to fit your body.",
+   "Sit on the machine with your back against the backrest and your feet on the footpad.",
+   "Grasp the handles or sidebars for stability.",
+   "Extend your legs forward by straightening your knees, lifting the weight.",
+   "Pause for a moment at the top, then slowly lower the weight back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0599": {
+  "name": "lever seated leg curl",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0599-Zg3XY7P.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0599-Zg3XY7P.jpg",
+  "equipment": "leverage machine",
+  "target": "hamstrings",
+  "steps": [
+   "Adjust the machine to fit your body and sit on it with your back against the backrest.",
+   "Place your lower legs under the padded lever, just above your ankles.",
+   "Grasp the handles on the sides of the machine for support.",
+   "Keeping your upper legs stationary, exhale and curl your legs up as far as possible.",
+   "Hold the contracted position for a brief pause as you squeeze your hamstrings.",
+   "Inhale and slowly lower the lever back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0586": {
+  "name": "lever lying leg curl",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0586-17lJ1kr.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0586-17lJ1kr.jpg",
+  "equipment": "leverage machine",
+  "target": "hamstrings",
+  "steps": [
+   "Adjust the machine to fit your body and select the desired weight.",
+   "Lie face down on the machine with your legs straight and your heels against the padded lever.",
+   "Grasp the handles or the sides of the machine for stability.",
+   "Keeping your upper body stationary, exhale and curl your legs up as far as possible without lifting your hips off the pad.",
+   "Hold the contracted position for a brief pause as you squeeze your hamstrings.",
+   "Inhale and slowly lower the lever back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "1459": {
+  "name": "dumbbell romanian deadlift",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1459-rR0LJzx.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1459-rR0LJzx.jpg",
+  "equipment": "dumbbell",
+  "target": "glutes",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.",
+   "Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing your knees to bend slightly.",
+   "Lower the dumbbells until you feel a stretch in your hamstrings, then push through your heels and engage your glutes to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0597": {
+  "name": "lever seated hip abduction",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0597-CHpahtl.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0597-CHpahtl.jpg",
+  "equipment": "leverage machine",
+  "target": "abductors",
+  "steps": [
+   "Adjust the seat height so that your knees are at a 90-degree angle.",
+   "Sit on the machine with your back against the backrest and your feet on the footrests.",
+   "Place your hands on the side handles for stability.",
+   "Engage your abductors and slowly push your legs apart, away from the midline of your body.",
+   "Pause for a moment at the end of the movement, then slowly bring your legs back together to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "3006": {
+  "name": "resistance band seated hip abduction",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3006-0xDpB4L.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3006-0xDpB4L.jpg",
+  "equipment": "resistance band",
+  "target": "abductors",
+  "steps": [
+   "Sit on a chair or bench with your back straight and feet flat on the ground.",
+   "Wrap the resistance band around your thighs, just above your knees.",
+   "Place your hands on the sides of the chair or bench for support.",
+   "Engage your abductors (outer thigh muscles) and slowly push your knees apart, against the resistance of the band.",
+   "Pause for a moment at the end of the movement, then slowly bring your knees back together.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0594": {
+  "name": "lever seated calf raise",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0594-bOOdeyc.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0594-bOOdeyc.jpg",
+  "equipment": "leverage machine",
+  "target": "calves",
+  "steps": [
+   "Adjust the seat height so that your knees are slightly bent and your feet are flat on the footplate.",
+   "Place your toes on the footplate with your heels hanging off the edge.",
+   "Grasp the handles or the sides of the seat for stability.",
+   "Push through the balls of your feet to raise your heels as high as possible.",
+   "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "1391": {
+  "name": "sled calf press on leg press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1391-ykHcWme.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1391-ykHcWme.jpg",
+  "equipment": "sled machine",
+  "target": "calves",
+  "steps": [
+   "Adjust the seat of the leg press machine so that your knees are slightly bent when your feet are on the sled.",
+   "Place your feet shoulder-width apart on the sled, with your toes pointing forward.",
+   "Release the safety handles and push the sled away from you by extending your knees and ankles.",
+   "Pause for a moment at the top of the movement, then slowly lower the sled back down by bending your knees and ankles.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0573": {
+  "name": "lever back extension",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0573-rUXfn3R.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0573-rUXfn3R.jpg",
+  "equipment": "leverage machine",
+  "target": "spine",
+  "steps": [
+   "Adjust the machine to fit your body size and range of motion.",
+   "Sit on the machine with your back against the pad and your feet secured.",
+   "Place your hands on the handles or grip bars.",
+   "Engage your core and slowly lean forward, allowing your back to round slightly.",
+   "Pause for a moment at the bottom position, feeling a stretch in your lower back.",
+   "Using your back muscles, slowly raise your torso back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "2135": {
+  "name": "weighted front plank",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2135-VBAWRPG.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2135-VBAWRPG.jpg",
+  "equipment": "weighted",
+  "target": "abs",
+  "steps": [
+   "Start by lying face down on the floor.",
+   "Place your forearms on the ground, with your elbows directly under your shoulders.",
+   "Extend your legs straight out behind you, with your toes on the ground.",
+   "Engage your core and lift your body off the ground, balancing on your forearms and toes.",
+   "Keep your body in a straight line from your head to your heels.",
+   "Hold this position for the desired amount of time.",
+   "Lower your body back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0276": {
+  "name": "dead bug",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0276-iny3m5y.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0276-iny3m5y.jpg",
+  "equipment": "body weight",
+  "target": "abs",
+  "steps": [
+   "Lie flat on your back with your arms extended towards the ceiling.",
+   "Bend your knees and lift your legs off the ground, creating a 90-degree angle at your hips and knees.",
+   "Engage your core and lower back to press your lower back into the ground.",
+   "Slowly lower your right arm and left leg towards the ground, keeping them straight and hovering just above the floor.",
+   "Pause for a moment, then return to the starting position.",
+   "Repeat the movement with your left arm and right leg.",
+   "Continue alternating sides for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0197": {
+  "name": "cable pulldown (pro lat bar)",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0197-qdRxqCj.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0197-qdRxqCj.jpg",
+  "equipment": "cable",
+  "target": "lats",
+  "steps": [
+   "Adjust the seat height so that your thighs are parallel to the ground and your feet are flat on the floor.",
+   "Grasp the lat bar with an overhand grip, slightly wider than shoulder-width apart.",
+   "Sit down and lean back slightly, keeping your chest up and your back straight.",
+   "Pull the bar down towards your chest, squeezing your shoulder blades together.",
+   "Pause for a moment at the bottom of the movement, then slowly release the bar back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0017": {
+  "name": "assisted pull-up",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0017-kiJ4Z2K.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0017-kiJ4Z2K.jpg",
+  "equipment": "leverage machine",
+  "target": "lats",
+  "steps": [
+   "Adjust the machine to your desired weight and height settings.",
+   "Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.",
+   "Hang with your arms fully extended and your feet off the ground.",
+   "Engage your back muscles and pull your body up towards the handles, keeping your elbows close to your body.",
+   "Continue pulling until your chin is above the handles.",
+   "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0861": {
+  "name": "cable seated row",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0861-fUBheHs.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0861-fUBheHs.jpg",
+  "equipment": "cable",
+  "target": "upper back",
+  "steps": [
+   "Sit on the cable row machine with your feet flat on the footrests and your knees slightly bent.",
+   "Grasp the handles with an overhand grip, keeping your back straight and your shoulders relaxed.",
+   "Pull the handles towards your body, squeezing your shoulder blades together.",
+   "Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "1350": {
+  "name": "lever seated row",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1350-7I6LNUG.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1350-7I6LNUG.jpg",
+  "equipment": "leverage machine",
+  "target": "upper back",
+  "steps": [
+   "Adjust the seat height and footrests to a comfortable position.",
+   "Sit on the machine with your chest against the pad and your feet on the footrests.",
+   "Grasp the handles with an overhand grip, shoulder-width apart.",
+   "Keep your back straight and your core engaged.",
+   "Pull the handles towards your body, squeezing your shoulder blades together.",
+   "Pause for a moment at the peak of the movement.",
+   "Slowly release the handles and return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0292": {
+  "name": "dumbbell one arm bent-over row",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0292-C0MA9bC.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0292-C0MA9bC.jpg",
+  "equipment": "dumbbell",
+  "target": "upper back",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body.",
+   "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+   "Let the dumbbell hang straight down towards the floor, with your arm fully extended.",
+   "Pull the dumbbell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.",
+   "Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.",
+   "Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0574": {
+  "name": "lever bent over row",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0574-X3cqyXz.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0574-X3cqyXz.jpg",
+  "equipment": "barbell",
+  "target": "upper back",
+  "steps": [
+   "Stand with your feet shoulder-width apart and knees slightly bent.",
+   "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Bend forward at the hips, keeping your back straight and chest up.",
+   "Pull the barbell towards your lower chest, squeezing your shoulder blades together.",
+   "Pause for a moment at the top, then slowly lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0233": {
+  "name": "cable standing rear delt row (with rope)",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0233-ZfyAGhK.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0233-ZfyAGhK.jpg",
+  "equipment": "cable",
+  "target": "delts",
+  "steps": [
+   "Stand facing a cable machine with your feet shoulder-width apart.",
+   "Hold the cable attachment with both hands, palms facing each other, and step back to create tension in the cable.",
+   "Keep your back straight and your core engaged.",
+   "Pull the cable towards your body, squeezing your shoulder blades together.",
+   "Pause for a moment at the peak of the movement, then slowly release the cable back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0602": {
+  "name": "lever seated reverse fly",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0602-myfUsKf.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0602-myfUsKf.jpg",
+  "equipment": "leverage machine",
+  "target": "delts",
+  "steps": [
+   "Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the floor.",
+   "Grasp the handles with an overhand grip and keep your arms slightly bent.",
+   "Exhale and squeeze your shoulder blades together as you pull the handles back and outward, away from your body.",
+   "Pause for a moment at the peak contraction, then inhale and slowly return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0447": {
+  "name": "ez barbell curl",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0447-6TG6x2w.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0447-6TG6x2w.jpg",
+  "equipment": "ez barbell",
+  "target": "biceps",
+  "steps": [
+   "Stand up straight with your feet shoulder-width apart and hold the ez barbell with an underhand grip, palms facing up.",
+   "Keep your elbows close to your torso and your upper arms stationary throughout the movement.",
+   "Exhale as you curl the barbell up towards your shoulders, contracting your biceps.",
+   "Pause for a moment at the top, then inhale as you slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0285": {
+  "name": "dumbbell alternate biceps curl",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0285-BU15nH4.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0285-BU15nH4.jpg",
+  "equipment": "dumbbell",
+  "target": "biceps",
+  "steps": [
+   "Stand up straight with a dumbbell in each hand, palms facing forward and arms fully extended.",
+   "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+   "Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale and slowly begin to lower the dumbbells back to the starting position.",
+   "Repeat for the desired number of repetitions, alternating arms."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0313": {
+  "name": "dumbbell hammer curl",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0313-slDvUAU.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0313-slDvUAU.jpg",
+  "equipment": "dumbbell",
+  "target": "biceps",
+  "steps": [
+   "Stand up straight with a dumbbell in each hand, palms facing your torso.",
+   "Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward.",
+   "This will be your starting position.",
+   "Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps.",
+   "Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Then, inhale and slowly begin to lower the dumbbells back to the starting position.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0165": {
+  "name": "cable hammer curl (with rope)",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0165-HPlPoQA.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0165-HPlPoQA.jpg",
+  "equipment": "cable",
+  "target": "biceps",
+  "steps": [
+   "Stand upright with your feet shoulder-width apart and a slight bend in your knees.",
+   "Hold the cable rope attachment with an underhand grip, palms facing each other, and your arms fully extended.",
+   "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+   "Continue to raise the cable rope attachment until your biceps are fully contracted and the rope is at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale and slowly begin to lower the cable rope attachment back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "1299": {
+  "name": "lever incline chest press",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1299-jHAnWmT.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1299-jHAnWmT.jpg",
+  "equipment": "leverage machine",
+  "target": "pectorals",
+  "steps": [
+   "Adjust the seat and backrest of the leverage machine to a comfortable position.",
+   "Sit on the machine with your back against the backrest and your feet flat on the floor.",
+   "Grasp the handles with an overhand grip and position your hands slightly wider than shoulder-width apart.",
+   "Push the handles forward and away from your body until your arms are fully extended.",
+   "Pause for a moment, then slowly bend your elbows and lower the handles back towards your chest.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ },
+ "0868": {
+  "name": "cable curl",
+  "gif": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0868-G08RZcQ.gif",
+  "thumb": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0868-G08RZcQ.jpg",
+  "equipment": "cable",
+  "target": "biceps",
+  "steps": [
+   "Stand facing the cable machine with your feet shoulder-width apart.",
+   "Grasp the cable attachment with an underhand grip, palms facing up.",
+   "Keep your elbows close to your sides and your upper arms stationary.",
+   "Exhale and curl the cable attachment towards your shoulders, contracting your biceps.",
+   "Pause for a moment at the top of the movement, squeezing your biceps.",
+   "Inhale and slowly lower the cable attachment back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "attribution": "© Gym visual — https://gymvisual.com/"
+ }
+}

@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "GB3 Gym Plan",
+    "subtitle": "Month 2 — Push / Legs / Pull / Full Body",
+    "updated": "2026-07-20",
+    "warmup": "Warm-up before every session: 5 min easy bike or elliptical + 1 light set (15 reps) of the first exercise.",
+    "rules": [
+      "Pick a weight where the last 2 reps of each set feel hard but form stays clean.",
+      "When you can do all sets at the top of the rep range, add weight (~5 lb upper body, ~10 lb leg press).",
+      "Last set ~2 reps from failure.",
+      "If all bikes/ellipticals are taken: incline treadmill walk — 3.0–3.5 mph at 5–8% incline, same duration."
+    ]
+  },
+  "days": [
+    {
+      "id": "push",
+      "name_en": "Day 1 — Push",
+      "detail": "Chest / Shoulders / Triceps",
+      "emoji": "🏋️",
+      "cardio": { "name_en": "Stationary bike", "detail": "20 min, moderate pace (can talk in short sentences)", "dataset_id": "0798" },
+      "exercises": [
+        { "num": 1, "name_en": "Machine chest press", "name_fa": "پرس سینه دستگاه", "sets": "4 × 12–15", "dataset_id": "0576",
+          "swaps": [ { "name_en": "Flat dumbbell bench press", "dataset_id": "0289" } ] },
+        { "num": 2, "name_en": "Incline dumbbell press", "name_fa": "پرس بالا سینه دمبل", "sets": "3 × 12–15", "dataset_id": "0314",
+          "swaps": [ { "name_en": "Incline Smith machine press", "dataset_id": "0757" } ] },
+        { "num": 3, "name_en": "Pec deck (chest fly machine)", "name_fa": "قفسه سینه دستگاه", "sets": "3 × 15", "dataset_id": "0596",
+          "swaps": [ { "name_en": "Flat dumbbell fly", "dataset_id": "0308" } ] },
+        { "num": 4, "name_en": "Seated dumbbell shoulder press", "name_fa": "پرس سرشانه دمبل", "sets": "3 × 12", "dataset_id": "0405",
+          "swaps": [ { "name_en": "Machine shoulder press", "dataset_id": "0603" } ] },
+        { "num": 5, "name_en": "Dumbbell lateral raise", "name_fa": "نشر جانب دمبل", "sets": "3 × 15", "dataset_id": "0334",
+          "swaps": [ { "name_en": "Single-arm cable lateral raise", "dataset_id": "0192" } ] },
+        { "num": 6, "name_en": "Triceps rope pushdown", "name_fa": "پشت بازو طناب", "sets": "3 × 15", "dataset_id": "0200",
+          "swaps": [ { "name_en": "Seated overhead dumbbell extension", "dataset_id": "2188" } ] }
+      ]
+    },
+    {
+      "id": "legs",
+      "name_en": "Day 2 — Legs + Core",
+      "detail": "Low-impact, joint-friendly",
+      "emoji": "🦵",
+      "cardio": { "name_en": "Elliptical", "detail": "20 min, easy-moderate", "dataset_id": "2141" },
+      "exercises": [
+        { "num": 1, "name_en": "Leg press", "name_fa": "پرس پا دستگاه", "sets": "4 × 12–15", "dataset_id": "0739",
+          "swaps": [ { "name_en": "Goblet squat to box", "dataset_id": "1760" },
+                     { "name_en": "Smith machine squat", "dataset_id": "0770" } ] },
+        { "num": 2, "name_en": "Leg extension", "name_fa": "جلو پا ماشین", "sets": "3 × 15", "dataset_id": "0585",
+          "swaps": [ { "name_en": "Leg press, feet low & narrow", "dataset_id": "0739", "note": "Same machine as leg press — place feet low and narrow on the platform to shift work to the quads." } ] },
+        { "num": 3, "name_en": "Seated leg curl", "name_fa": "پشت پا ماشین", "sets": "3 × 15", "dataset_id": "0599",
+          "swaps": [ { "name_en": "Lying leg curl", "dataset_id": "0586" },
+                     { "name_en": "Dumbbell Romanian deadlift", "dataset_id": "1459" } ] },
+        { "num": 4, "name_en": "Hip abduction machine", "name_fa": "دستگاه خارج ران", "sets": "3 × 15", "dataset_id": "0597",
+          "swaps": [ { "name_en": "Banded seated hip abduction", "dataset_id": "3006" } ] },
+        { "num": 5, "name_en": "Seated calf raise", "name_fa": "ساق پا نشسته", "sets": "4 × 15", "dataset_id": "0594",
+          "swaps": [ { "name_en": "Calf raise on leg press machine", "dataset_id": "1391" } ] },
+        { "num": 6, "name_en": "Back extension", "name_fa": "فیله کمر", "sets": "3 × 15", "dataset_id": "0573",
+          "swaps": [ { "name_en": "Bird-dog", "custom_instructions": ["On all fours, hands under shoulders, knees under hips.", "Slowly extend your right arm forward and left leg back until both are straight, without arching your lower back.", "Hold 2 seconds, return, and switch sides. 10 slow reps per side."] } ] },
+        { "num": 7, "name_en": "Plank (knees down if needed)", "name_fa": "پلانک", "sets": "3 × 20–30 sec", "dataset_id": "2135",
+          "note": "GIF shows a weighted plank — do it without the plate. Drop to knees if your lower back rounds.",
+          "swaps": [ { "name_en": "Dead bug", "dataset_id": "0276" } ] }
+      ]
+    },
+    {
+      "id": "pull",
+      "name_en": "Day 3 — Pull",
+      "detail": "Back / Biceps",
+      "emoji": "💪",
+      "cardio": { "name_en": "Bike or elliptical", "detail": "25 min, moderate", "dataset_id": "0798" },
+      "exercises": [
+        { "num": 1, "name_en": "Lat pulldown", "name_fa": "زیر بغل سیم‌کش", "sets": "4 × 12–15", "dataset_id": "0197",
+          "swaps": [ { "name_en": "Assisted pull-up machine", "dataset_id": "0017" } ] },
+        { "num": 2, "name_en": "Seated cable row", "name_fa": "زیر بغل قایقی", "sets": "3 × 12–15", "dataset_id": "0861",
+          "swaps": [ { "name_en": "Chest-supported machine row", "dataset_id": "1350" } ] },
+        { "num": 3, "name_en": "One-arm dumbbell row", "name_fa": "زیر بغل دمبل تک خم", "sets": "3 × 12 each side", "dataset_id": "0292",
+          "swaps": [ { "name_en": "Machine row", "dataset_id": "0574" } ] },
+        { "num": 4, "name_en": "Face pull (rope)", "name_fa": "فیس پول طناب", "sets": "3 × 15", "dataset_id": "0233",
+          "swaps": [ { "name_en": "Reverse pec deck (rear-delt machine)", "dataset_id": "0602" } ] },
+        { "num": 5, "name_en": "EZ-bar biceps curl", "name_fa": "جلو بازو هالتر لاری", "sets": "3 × 12", "dataset_id": "0447",
+          "swaps": [ { "name_en": "Alternating dumbbell curl", "dataset_id": "0285" } ] },
+        { "num": 6, "name_en": "Dumbbell hammer curl", "name_fa": "جلو بازو دمبل چکشی", "sets": "3 × 12", "dataset_id": "0313",
+          "swaps": [ { "name_en": "Rope cable hammer curl", "dataset_id": "0165" } ] }
+      ]
+    },
+    {
+      "id": "full",
+      "name_en": "Day 4 — Full Body",
+      "detail": "+ Longer cardio",
+      "emoji": "🔥",
+      "cardio": { "name_en": "Elliptical or bike", "detail": "30 min, moderate", "dataset_id": "2141" },
+      "exercises": [
+        { "num": 1, "name_en": "Goblet squat to box", "name_fa": "اسکوات گابلت", "sets": "3 × 12", "dataset_id": "1760",
+          "swaps": [ { "name_en": "Smith machine squat", "dataset_id": "0770" },
+                     { "name_en": "Leg press", "dataset_id": "0739" } ] },
+        { "num": 2, "name_en": "Incline machine press", "name_fa": "پرس بالا سینه دستگاه", "sets": "3 × 12–15", "dataset_id": "1299",
+          "swaps": [ { "name_en": "Incline dumbbell press", "dataset_id": "0314" } ] },
+        { "num": 3, "name_en": "Assisted pull-up machine", "name_fa": "بارفیکس دستگاه کمکی", "sets": "3 × 8–10", "dataset_id": "0017",
+          "swaps": [ { "name_en": "Lat pulldown", "dataset_id": "0197" } ] },
+        { "num": 4, "name_en": "Machine shoulder press", "name_fa": "پرس سرشانه دستگاه", "sets": "3 × 12", "dataset_id": "0603",
+          "swaps": [ { "name_en": "Seated dumbbell shoulder press", "dataset_id": "0405" } ] },
+        { "num": "5a", "name_en": "Cable curl", "name_fa": "جلو بازو سیم‌کش", "sets": "3 × 12 · superset with 5b", "dataset_id": "0868",
+          "swaps": [ { "name_en": "Dumbbell curl", "dataset_id": "0285" } ] },
+        { "num": "5b", "name_en": "Rope pushdown", "name_fa": "پشت بازو طناب", "sets": "3 × 12 · superset with 5a", "dataset_id": "0200",
+          "swaps": [ { "name_en": "Overhead dumbbell extension", "dataset_id": "2188" } ] },
+        { "num": 6, "name_en": "Seated leg curl", "name_fa": "پشت پا ماشین", "sets": "3 × 15", "dataset_id": "0599",
+          "swaps": [ { "name_en": "Lying leg curl", "dataset_id": "0586" } ] }
+      ]
+    }
+  ]
+}
